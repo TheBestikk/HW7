@@ -1,0 +1,7 @@
+ul.list > li > a[href]:not([href="#"]) {
+    color: red;
+}
+
+p {
+    font-size: 24px;
+}
