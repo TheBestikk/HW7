@@ -6,6 +6,6 @@ a[href="https://www.youtube.com/"] {
     color: red;
 }
 
-p {
+ul + p, h1 + p{
     font-size: 24px;
 }
